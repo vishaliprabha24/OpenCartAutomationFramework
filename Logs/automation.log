@@ -1,0 +1,119 @@
+2025-07-04 00:04:10 DEBUG TestNG:82 - suiteXmlPath: "E:\OpenCartAutomationFramework\Master.xml"
+2025-07-04 00:04:11 INFO  Utils:112 - [TestNG] Running:
+  E:\OpenCartAutomationFramework\Master.xml
+
+2025-07-04 00:04:17 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 00:04:17 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 00:04:17 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 00:04:18 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 00:04:18 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 00:04:29 ERROR TC002_LoginTest:44 - Loggedin failed and not navigated to Myaccount page
+2025-07-04 00:04:29 DEBUG TC002_LoginTest:45 - debug logs
+2025-07-04 12:36:30 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:37:43 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:41:41 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:44:13 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:45:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Vignesh\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+2025-07-04 12:45:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Vignesh\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-07-04 12:55:10 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Vignesh\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+2025-07-04 12:55:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Vignesh\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+2025-07-04 12:56:47 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:57:09 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:57:10 INFO  Utils:112 - [TestNG] Running:
+  C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml
+
+2025-07-04 12:57:24 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 12:57:24 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 12:57:25 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 12:57:37 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 12:57:37 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 12:57:37 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 12:57:37 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 12:57:37 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 12:57:39 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 12:57:53 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 12:57:55 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 12:57:56 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 12:58:01 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 12:58:02 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 12:58:02 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 12:58:02 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 12:58:02 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 12:58:03 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 12:58:28 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml"
+2025-07-04 12:58:29 INFO  Utils:112 - [TestNG] Running:
+  C:\VishaliAutomationProjects\OpenCartAutomationFramework\grouping.xml
+
+2025-07-04 12:59:16 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 12:59:17 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 12:59:18 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 12:59:30 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 12:59:30 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 12:59:30 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 12:59:31 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 12:59:31 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 12:59:32 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 12:59:57 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 12:59:59 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:00:05 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 13:00:08 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 13:00:09 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 13:00:09 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 13:00:09 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 13:00:10 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 13:00:11 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 13:21:06 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\Grouping.xml"
+2025-07-04 13:21:33 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 13:21:35 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:21:37 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 13:21:50 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 13:21:50 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 13:21:50 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 13:21:51 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 13:21:51 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 13:21:52 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 13:22:13 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 13:22:14 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:22:16 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 13:22:19 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 13:22:20 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 13:22:20 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 13:22:20 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 13:22:20 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 13:22:22 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 13:22:39 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\Grouping.xml"
+2025-07-04 13:22:43 DEBUG TestNG:82 - suiteXmlPath: "C:\VishaliAutomationProjects\OpenCartAutomationFramework\Grouping.xml"
+2025-07-04 13:22:56 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 13:22:57 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:22:58 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 13:23:09 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 13:23:11 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:23:12 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 13:23:22 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 13:23:23 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 13:23:23 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 13:23:23 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 13:23:23 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 13:23:25 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 13:23:37 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 13:23:40 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 13:23:40 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 13:23:42 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 13:23:42 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 13:23:43 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 13:23:46 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 13:23:48 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:23:51 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
+2025-07-04 13:23:57 INFO  TC002_LoginTest:20 - clicked on myaccount link on the home page..
+2025-07-04 13:23:57 INFO  TC002_LoginTest:22 - clicked on login link under myaccount..
+2025-07-04 13:23:57 INFO  TC002_LoginTest:24 - Navigated to login page, now About to login
+2025-07-04 13:23:58 INFO  TC002_LoginTest:28 - email entered
+2025-07-04 13:23:58 INFO  TC002_LoginTest:32 - password entered
+2025-07-04 13:23:59 INFO  TC002_LoginTest:41 - Loggedin successfull and navigated to Myaccount page
+2025-07-04 13:24:05 INFO  TC001_AccountRegistrationTest:26 - ***TEST STARTED***
+2025-07-04 13:24:06 INFO  TC001_AccountRegistrationTest:38 - ***INPUT VALUES ENTERED***
+2025-07-04 13:24:08 INFO  TC001_AccountRegistrationTest:43 - ***BUTTON SUBMITTED***
