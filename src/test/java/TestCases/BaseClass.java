@@ -1,5 +1,4 @@
 package TestCases;
-
 import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
